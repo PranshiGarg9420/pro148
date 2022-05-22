@@ -1,0 +1,11 @@
+Model Information:
+* title:	By The Ocean
+* source:	https://sketchfab.com/3d-models/by-the-ocean-59bc7118b5db4d9d96c24f7297e0b4ad
+* author:	Jirte.Vanhoenacker (https://sketchfab.com/Jirte.Vanhoenacker)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "By The Ocean" (https://sketchfab.com/3d-models/by-the-ocean-59bc7118b5db4d9d96c24f7297e0b4ad) by Jirte.Vanhoenacker (https://sketchfab.com/Jirte.Vanhoenacker) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
